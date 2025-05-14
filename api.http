@@ -2,17 +2,15 @@
 GET http://localhost:3000/movies
 
 ###
-POST http://localhost:3000/movies
+PUT http://localhost:3000/movies/5
 Content-Type: application/json
 
 {
-        "name": "Attack on titan",
-        "year": 2013,
-        "sinopsis": "un chico llamado eren desea salair de las murallas, pero de repente su mundo se emepiezza a caer cuando los titanes se meten a su distrito y el busca venganza por la muerte de su madre y para obttener la seguridad de su isla"
+        "year":2025
 }
 
 ###
-DELETE http://localhost:3000/movies/6
+DELETE http://localhost:3000/movies/1
 
 ###
-GET http://localhost:3000/movies/3
+GET http://localhost:3000/movies/4

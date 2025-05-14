@@ -1,11 +1,5 @@
 [
     {
-        "id": 1,
-        "name": "Shigatsu wa Kimi no uso",
-        "year": 2015,
-        "sinopsis": "una mentira en abril comienza todo con kaori y kousei que esta tratando de volver a conocer el sonido del piano"
-    },
-    {
         "id": 2,
         "name": "Attack on titan",
         "year": 2013,
@@ -14,7 +8,19 @@
     {
         "id": 3,
         "name": "Jujutsu Kaisen",
-        "year": 2020,
+        "year": 2019,
         "sinopsis": "Yuji Itadori es un estudiante normal de secundaria hasta que megumi fushiguro lo encuentra y por desgraciia de come uno de los dedos de sukuna y tiene que encontrarlos todos hasta absorverlo"
+    },
+    {
+        "id": 4,
+        "name": "Shigatsu wa Kimi no Uso",
+        "year": 2015,
+        "sinopsis": "un chico llamado kousei trata de recuperar el oido al piano"
+    },
+    {
+        "id": 5,
+        "name": "Kuroiwa medaka",
+        "year": 2025,
+        "sinopsis": "Mona kawai wants to be loved by a single man and he is kuroiwa medaka"
     }
 ]
