@@ -13,14 +13,20 @@
     },
     {
         "id": 4,
-        "name": "Shigatsu wa Kimi no Uso",
-        "year": 2015,
+        "name": "Shigatsu wa Kimi no uso",
+        "year": 2016,
         "sinopsis": "un chico llamado kousei trata de recuperar el oido al piano"
     },
     {
         "id": 5,
-        "name": "Kuroiwa medaka",
-        "year": 2025,
-        "sinopsis": "Mona kawai wants to be loved by a single man and he is kuroiwa medaka"
+        "name": "Shigatsu wa Kimi no uso",
+        "year": 2016,
+        "sinopsis": "un chico llamado kousei trata de recuperar el oido al piano"
+    },
+    {
+        "id": 6,
+        "name": "The Matrix",
+        "year": 1999,
+        "sinopsis": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
     }
 ]

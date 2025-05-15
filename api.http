@@ -2,15 +2,18 @@
 GET http://localhost:3000/movies
 
 ###
-PUT http://localhost:3000/movies/5
+POST http://localhost:3000/movies
 Content-Type: application/json
 
 {
-        "year":2025
+        "name": "The Matrix",
+        "year": 1999,
+        "sinopsis": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers."
 }
 
 ###
-DELETE http://localhost:3000/movies/1
+DELETE http://localhost:3000/movies/6
 
 ###
-GET http://localhost:3000/movies/4
+
+GET http://localhost:3000/movies/2
